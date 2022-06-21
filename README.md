@@ -1,8 +1,7 @@
 ### Prazer! Sou Milena Simione!
 
 
-- 🌱 Estudo Javascript
-- 😄 Pronouns:ela/dela
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
